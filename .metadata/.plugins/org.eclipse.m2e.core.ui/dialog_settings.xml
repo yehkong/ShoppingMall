@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/taiwenye/eclipse-workspace-0326"/>
+			<item value="/Users/yetaiwen/eclipse-workspace-0326"/>
+			<item value="/Users/yetaiwen/eclipse-workspace-0326/"/>
 			<item value="/Users/yetaiwen/eclipse-workspace/ShoppingMall"/>
 		</list>
 		<list key="projectNameTemplate">
