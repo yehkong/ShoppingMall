@@ -30,5 +30,5 @@
 
 	<!-- 声明需要暴露的服务接口 -->
 	<dubbo:service interface="com.taotao.manager.service.TestService"
-	ref="testServiceImpl" />
+	ref="testServiceImpl"/>
 </beans>
