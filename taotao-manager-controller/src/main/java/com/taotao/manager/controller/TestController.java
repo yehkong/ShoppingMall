@@ -15,8 +15,8 @@ public class TestController {
 	
 	@RequestMapping("date")
 	public String queryDate() {
-		System.out.println("date....");
-		return this.testService.queryDate();
+		System.out.println("date...." + this.testService.queryDate());
+		return "index";
 	}
 
 }

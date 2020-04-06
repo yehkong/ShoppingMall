@@ -6,4 +6,12 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>taotao-manager-pojo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <!-- 通用Mapper -->
+   <dependencies>
+			<dependency>
+				<groupId>com.github.abel533</groupId>
+				<artifactId>mapper</artifactId>
+			</dependency>
+	</dependencies>
 </project>
