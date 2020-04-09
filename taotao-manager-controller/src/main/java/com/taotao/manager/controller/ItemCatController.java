@@ -24,11 +24,8 @@ public class ItemCatController {
 	@RequestMapping("query/{page}")
 	@ResponseBody
 	public List<TbItemCat> queryItemCatByPage(@PathVariable("page") Integer page, @RequestParam("rows") Integer rows){
-		
-		Map<String,Integer> map = new HashMap<String,Integer>();
-		map.put("page",page);
-		map.put("rows",rows);
-		List<TbItemCat> list = this.itemCatService.queryItemCatByPage(map);
+
+		List<TbItemCat> list = this.itemCatService.queryByPage(page, rows);
 		return list;
 	}
 

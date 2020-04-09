@@ -1,5 +1,7 @@
 package com.taotao.manager.mapper;
 
-public interface TestMapper {
+import com.github.abel533.mapper.Mapper;
+
+public interface TestMapper extends Mapper<Object> {
       String queryDate();
 }
