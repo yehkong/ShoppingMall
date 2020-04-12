@@ -3,7 +3,7 @@ package com.taotao.pojo;
 import java.io.Serializable;
 import java.util.Date;
 
-public class TbItemCat implements Serializable{
+public class TbItemCat extends BasePojo implements Serializable{
     /**
 	 * 
 	 */
@@ -20,10 +20,6 @@ public class TbItemCat implements Serializable{
     private Integer sortOrder;
 
     private Boolean isParent;
-
-    private Date created;
-
-    private Date updated;
 
     public Long getId() {
         return id;
@@ -73,19 +69,4 @@ public class TbItemCat implements Serializable{
         this.isParent = isParent;
     }
 
-    public Date getCreated() {
-        return created;
-    }
-
-    public void setCreated(Date created) {
-        this.created = created;
-    }
-
-    public Date getUpdated() {
-        return updated;
-    }
-
-    public void setUpdated(Date updated) {
-        this.updated = updated;
-    }
 }

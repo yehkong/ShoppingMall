@@ -1,6 +1,6 @@
-eclipse.m2.defaultRuntime=maven3.6.3
-eclipse.m2.runtimes=maven3.6.3
-eclipse.m2.runtimesNodes/maven3.6.3/location=/usr/local/maven/apache-maven-3.6.3
-eclipse.m2.runtimesNodes/maven3.6.3/type=EXTERNAL
-eclipse.m2.userSettingsFile=/usr/local/maven/apache-maven-3.6.3/conf/settings.xml
+eclipse.m2.defaultRuntime=maven3.5.7
+eclipse.m2.runtimes=maven3.5.7
+eclipse.m2.runtimesNodes/maven3.5.7/location=/Users/yetaiwen/Library/maven
+eclipse.m2.runtimesNodes/maven3.5.7/type=EXTERNAL
+eclipse.m2.userSettingsFile=/Users/yetaiwen/Library/maven/conf/setting.xml
 eclipse.preferences.version=1
