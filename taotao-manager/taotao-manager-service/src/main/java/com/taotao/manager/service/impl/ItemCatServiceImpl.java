@@ -15,4 +15,13 @@ import com.taotao.pojo.TbItemCat;
 @Service
 public class ItemCatServiceImpl extends BaseServiceImpl<TbItemCat> implements ItemCatService{
 
+	@Override
+	public List<TbItemCat> queryItemCatByParentId(Long parentId) {
+		// TODO Auto-generated method stub
+		TbItemCat param = new TbItemCat();
+		param.setParentId(parentId);
+		List<TbItemCat> queryListByWhere = super.queryListByWhere(param);
+		return queryListByWhere;
+	}
+
 }

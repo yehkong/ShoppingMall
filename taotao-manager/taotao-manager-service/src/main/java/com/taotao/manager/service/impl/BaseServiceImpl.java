@@ -91,8 +91,8 @@ public class BaseServiceImpl<T extends BasePojo> implements BaseService<T> {
 			t.setUpdated(t.getCreated());
 		} else if (t.getUpdated() == null) {
 			t.setUpdated(t.getCreated());
-		}
-
+		}		
+		
 		this.mapper.insertSelective(t);
 	}
 

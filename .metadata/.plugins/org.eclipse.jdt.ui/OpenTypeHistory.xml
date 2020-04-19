@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-manager-pojo/\/Users\/yetaiwen\/.m2\/repository\/com\/github\/abel533\/mapper\/2.3.4\/mapper-2.3.4.jar&lt;com.github.abel533.mapper(Mapper.class[Mapper" modifiers="1537" timestamp="1586177476000"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.manager.service.impl{BaseServiceImpl.java[BaseServiceImpl" modifiers="1" timestamp="1587304895000"/>
+</typeInfoHistroy>

@@ -68,5 +68,13 @@ public class TbItemCat extends BasePojo implements Serializable{
     public void setIsParent(Boolean isParent) {
         this.isParent = isParent;
     }
+    
+    public String getText() {
+        return this.getName();
+    }
+    
+    public String getState() {
+        return this.isParent ? "close" : "open";
+    }
 
 }
