@@ -34,6 +34,8 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="taotao.content.service"/>
+			<item value="taotao.content.interface"/>
 			<item value="taotao-manager-pojo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -57,13 +59,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.taotao.manager.pojo"/>
+			<item value="org.taotao.content.service"/>
 		</list>
 		<list key="groupId">
 			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
-			<item value="taotao-manager-pojo"/>
+			<item value="taotao.content.service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -84,6 +86,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="taotao.content.service"/>
+			<item value="taotao.content"/>
+			<item value="taotao.content.interface"/>
+			<item value="taotao-parent"/>
+			<item value="taotao-portal-web"/>
 			<item value="taotao-manager-pojo"/>
 			<item value="taotao-manager"/>
 		</list>
@@ -98,5 +105,24 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-parent"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="477"/>
+		<item key="y" value="75"/>
 	</section>
 </section>

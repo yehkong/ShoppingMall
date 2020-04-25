@@ -30,7 +30,7 @@
 	<!-- 使用广播 -->
 	<!-- <dubbo:registry address="multicast://224.5.6.7:1234" /> -->
 	<!-- <dubbo:registry address="zookeeper://192.168.153.129:2181" /> -->
-	<dubbo:registry address="zookeeper://192.168.55.130:2181" />
+	<dubbo:registry address="zookeeper://192.168.55.131:2181" />
 	<!-- 声明要调用的服务，timeout是设置连接超时最长时间,如果不设置，超时时间默认是3秒 -->
 	<dubbo:reference interface="com.taotao.manager.service.TestService"
 	id="testService"  timeout="10000"/>
@@ -38,7 +38,7 @@
 	id="itemCatService"  timeout="10000"/>
 	<dubbo:reference interface="com.taotao.manager.service.ItemService"
 	id="itemService"  timeout="10000"/>
-<!-- 	<dubbo:reference interface="com.taotao.manager.service.ItemDescService"
-	id="itemDescService"  timeout="10000"/> -->
+	<dubbo:reference interface="com.taotao.content.service.ContentCategoryService"
+	id="contentCategoryService"  timeout="10000"/>
 </beans>
 
