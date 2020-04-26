@@ -7424,3 +7424,347 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.taotao:ta
 2020-04-25 22:34:24,973 [Worker-77: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
 2020-04-25 22:34:38,493 [Worker-80: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
 2020-04-25 22:34:38,493 [Worker-80: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 20:46:50,398 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-26 20:47:57,629 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 20:47:57,846 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:02,425 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 20:48:02,429 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 20:48:02,429 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 20:48:02,431 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 20:48:02,461 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:16,094 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:16,113 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:16,114 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-04-26 20:48:16,168 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:16,168 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 20:48:21,382 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 20:48:21,388 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:21,953 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:21,954 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:21,955 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-04-26 20:48:21,957 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:21,957 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:22,626 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 20:48:22,628 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 20:48:22,628 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 20:48:22,629 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:22,630 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 20:48:22,645 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:22,645 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:22,646 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-04-26 20:48:22,647 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:22,647 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 20:48:22,789 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:22,925 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 20:48:22,925 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 20:48:22,927 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 20:48:22,931 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:48:22,939 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:22,940 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:22,940 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-04-26 20:48:22,942 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:48:22,943 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:48:24,151 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:49:59,459 [Worker-8: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-common] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-common
+2020-04-26 20:49:59,461 [Worker-8: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-common] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 20:50:11,086 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:11,103 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:11,104 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:11,106 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:11,107 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:21,232 [Worker-18: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-manager] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 20:50:21,232 [Worker-18: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-manager] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 20:50:31,763 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:50:31,839 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 20:50:31,840 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 20:50:31,847 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:31,847 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:31,847 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:31,849 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:31,850 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:31,894 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:31,928 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:31,929 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-04-26 20:50:31,931 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:31,932 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:37,365 [Worker-8: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 20:50:37,366 [Worker-8: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 20:50:45,475 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:45,492 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:45,492 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:45,498 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:45,498 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:45,534 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:45,534 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:45,535 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:45,537 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:50:45,537 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:50:53,871 [Worker-8: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 20:50:53,872 [Worker-8: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 20:50:58,937 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 20:50:58,937 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 20:51:03,102 [Worker-10: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
+2020-04-26 20:51:03,152 [Worker-10: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 20:54:09,011 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:54:09,039 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:54:09,039 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 20:54:09,042 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 20:54:09,042 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 20:54:09,081 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-controller
+2020-04-26 20:54:09,109 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-controller
+2020-04-26 20:54:09,121 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:01:34,147 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:01:34,601 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:01:34,699 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:01:34,700 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:01:36,563 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:01:36,564 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 21:01:36,565 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:01:36,565 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 21:01:36,569 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:01:36,574 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:01:36,574 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:01:36,575 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:01:36,576 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:01:36,576 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:01:36,577 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-service
+2020-04-26 21:01:36,577 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-service
+2020-04-26 21:01:36,628 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:11:48,567 [Worker-19: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-parent] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-parent
+2020-04-26 21:11:48,613 [Worker-19: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-parent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 21:12:25,544 [Worker-18: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
+2020-04-26 21:12:25,545 [Worker-18: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:13:05,689 [Worker-20: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:13:05,689 [Worker-20: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:13:35,563 [Worker-18: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:13:35,563 [Worker-18: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:13:50,991 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:13:50,991 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:14:19,346 [Worker-10: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
+2020-04-26 21:14:19,346 [Worker-10: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:15:01,849 [Worker-18: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:15:29,880 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:15:29,880 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:15:29,880 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:15:29,882 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:15:29,882 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:18:51,735 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:18:51,759 [Worker-15: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:19:11,357 [Worker-22: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
+2020-04-26 21:19:11,357 [Worker-22: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:22:13,989 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:22:14,018 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:22:14,018 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:22:14,020 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:22:14,082 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:10,929 [Worker-22: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:23:10,936 [Worker-22: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 21:23:18,213 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:23:18,354 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:23:18,357 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:23:18,363 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:23:18,364 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:18,364 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:18,368 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:23:18,369 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:18,639 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:23:18,640 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:18,641 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-04-26 21:23:18,643 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:23:18,643 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:23:18,644 [Worker-18: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao.content.service
+2020-04-26 21:23:18,644 [Worker-18: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao.content.service
+2020-04-26 21:23:18,653 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:23:29,980 [Worker-1: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:23:29,980 [Worker-1: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:24:04,341 [Worker-22: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:24:04,341 [Worker-22: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:27:36,390 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:27:36,427 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:27:36,427 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:27:36,430 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:27:36,430 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:32:22,275 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:32:22,316 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 21:32:22,317 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:32:22,317 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:32:22,318 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 21:32:22,325 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:22,325 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:32:22,327 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-26 21:32:22,337 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:22,338 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 21:32:22,658 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:22,659 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:32:22,659 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:32:22,660 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:22,660 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 21:32:22,661 [Worker-1: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-controller
+2020-04-26 21:32:22,661 [Worker-1: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-controller
+2020-04-26 21:32:22,665 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:36,325 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:36,326 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:32:36,330 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-04-26 21:32:36,332 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:32:36,332 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 21:35:11,301 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:35:11,303 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:35:11,371 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:35:11,372 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:35:11,493 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:35:11,498 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 21:35:11,499 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:35:11,505 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 21:35:11,511 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:35:11,524 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:35:11,524 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:35:11,524 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:35:11,525 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:35:11,526 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:35:11,526 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-service
+2020-04-26 21:35:11,526 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-service
+2020-04-26 21:35:11,529 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:42,008 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:42,009 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:42,012 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-26 21:39:42,014 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:42,015 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:39:47,383 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,383 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,383 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,386 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,386 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:39:47,575 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,576 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,576 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,578 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,578 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,686 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,687 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,687 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:47,688 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:47,688 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 21:39:48,149 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:48,149 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:48,150 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-04-26 21:39:48,153 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:48,153 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:48,173 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:39:48,217 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:39:48,692 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 21:39:48,692 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:39:48,708 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 21:39:48,711 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:39:48,715 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:48,715 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:39:48,715 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-26 21:39:48,730 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:39:48,730 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:40:58,506 [Worker-23: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:40:58,506 [Worker-23: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 21:41:05,925 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:05,927 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,073 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,074 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,091 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,093 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,102 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,102 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:06,102 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-pojo/src/main/resources
+2020-04-26 21:41:06,104 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,104 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-pojo/src/test/resources
+2020-04-26 21:41:06,656 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,661 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,706 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,707 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:41:06,710 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,715 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,717 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-26 21:41:06,717 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-mapper/src/main/resources
+2020-04-26 21:41:06,718 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,719 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-mapper/src/test/resources
+2020-04-26 21:41:06,838 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,839 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,880 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,881 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:41:06,883 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:06,889 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,890 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:06,890 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-interface/src/main/resources
+2020-04-26 21:41:06,897 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:06,897 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-interface/src/test/resources
+2020-04-26 21:41:06,997 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:06,998 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:07,128 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:41:07,130 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 21:41:07,130 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:41:07,131 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 21:41:07,137 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:41:07,146 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:07,150 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:07,151 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-04-26 21:41:07,152 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:07,152 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:41:10,050 [Worker-23: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-manager] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:41:10,050 [Worker-23: Launching Executing install in _Users_yetaiwen_eclipse-workspace_ShoppingMall_taotao-manager] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-26 21:41:18,149 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,149 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:18,149 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-pojo/src/main/resources
+2020-04-26 21:41:18,150 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,150 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-pojo/src/test/resources
+2020-04-26 21:41:18,308 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,309 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:18,310 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-mapper/src/main/resources
+2020-04-26 21:41:18,311 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,311 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-mapper/src/test/resources
+2020-04-26 21:41:18,322 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,322 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:18,322 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-interface/src/main/resources
+2020-04-26 21:41:18,324 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,324 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-interface/src/test/resources
+2020-04-26 21:41:18,334 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,334 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:18,334 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:41:18,336 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:41:18,336 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager/taotao-manager-service/src/test/resources
+2020-04-26 21:41:36,268 [Worker-23: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:41:36,269 [Worker-23: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:46:41,239 [Worker-24: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:46:41,467 [Worker-24: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-mapper: com.taotao:taotao-manager-mapper:0.0.1-SNAPSHOT with classifier  to /taotao-manager-mapper/target/classes
+2020-04-26 21:46:41,467 [Worker-24: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:46:41,469 [Worker-24: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 21:46:41,473 [Worker-24: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:48:01,985 [Worker-24: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:48:01,986 [Worker-24: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:48:02,018 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:48:02,031 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:48:02,032 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:48:02,032 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-26 21:48:02,036 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:48:02,037 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:50:34,325 [Worker-19: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:50:34,326 [Worker-19: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:54:39,950 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:54:39,951 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:54:39,952 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-26 21:54:39,956 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:54:39,957 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:54:48,479 [Worker-28: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao.content
+2020-04-26 21:54:48,479 [Worker-28: Launching taotao.content] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:55:13,906 [Worker-30: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager
+2020-04-26 21:55:13,906 [Worker-30: Launching taotao-manager (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:55:38,145 [Worker-28: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller
+2020-04-26 21:55:38,145 [Worker-28: Launching taotao-manager-controller (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean tomcat7:run
+2020-04-26 21:59:15,082 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-04-26 21:59:15,120 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-interface: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT with classifier  to /taotao-manager-interface/target/classes
+2020-04-26 21:59:15,121 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-manager-pojo: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT with classifier  to /taotao-manager-pojo/target/classes
+2020-04-26 21:59:15,122 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao-common: com.taotao:taotao-common:0.0.1-SNAPSHOT with classifier  to /taotao-common/target/classes
+2020-04-26 21:59:15,122 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/taotao.content.interface: com.taotao:taotao.content.interface:0.0.1-SNAPSHOT with classifier  to /taotao.content.interface/target/classes
+2020-04-26 21:59:15,132 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:59:15,132 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:59:15,133 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-26 21:59:15,134 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-26 21:59:15,134 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/yetaiwen/eclipse-workspace/ShoppingMall/taotao-manager-controller/src/test/resources
+2020-04-26 21:59:15,134 [Worker-8: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-controller
+2020-04-26 21:59:15,135 [Worker-8: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-controller
+2020-04-26 21:59:15,141 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
