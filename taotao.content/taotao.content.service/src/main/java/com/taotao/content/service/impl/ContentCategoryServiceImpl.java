@@ -63,6 +63,7 @@ public class ContentCategoryServiceImpl implements ContentCategoryService {
 				tbContentCategory.setCreated(new Date());
 				tbContentCategory.setUpdated(new Date());
 				// c)向tb_content_category表中插入数据
+				System.out.println(tbContentCategory);
 				mapper.insert(tbContentCategory);
 				// 3、判断父节点的isparent是否为true，不是true需要改为true。
 				TbContentCategory parentNode = mapper.selectByPrimaryKey(parentId);

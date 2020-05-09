@@ -88,8 +88,12 @@ function menuHandler(item){
 	}else if(item.name === "delete"){
 		$.messager.confirm('确认','确定删除名为 '+node.text+' 的分类吗？',function(r){
 			if(r){//如果是true 表示要执行以下的逻辑
-				$.post("/content/category/delete/",{id:node.id},function(){
+				$.post("/content/category/delete/",{id:node.id},function(data){
 					//后台删除成功后，删除前端的节点
+					if (data.msg == "父节点不允许删除"){
+						$.messager.alert('提示','父节点不允许删除');
+						return;
+					}
 					tree.tree("remove",node.target);
 				});	
 			}

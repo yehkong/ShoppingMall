@@ -33,6 +33,7 @@ public class ContentCategoryController {
 	@RequestMapping(value = "/create",method = RequestMethod.POST)
 	@ResponseBody
 	public TaotaoResult createCategory(Long parentId, String name) {
+		System.out.println("------" + parentId + name);
 		return service.addContentCategory(parentId, name);
 	}
 	

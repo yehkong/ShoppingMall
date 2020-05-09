@@ -1,8 +1,9 @@
 package com.taotao.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbContentCategory {
+public class TbContentCategory implements Serializable{
     private Long id;
 
     private Long parentId;
@@ -82,4 +83,12 @@ public class TbContentCategory {
     public void setUpdated(Date updated) {
         this.updated = updated;
     }
+
+	@Override
+	public String toString() {
+		return "TbContentCategory [id=" + id + ", parentId=" + parentId + ", name=" + name + ", status=" + status
+				+ ", sortOrder=" + sortOrder + ", isParent=" + isParent + ", created=" + created + ", updated="
+				+ updated + "]";
+	}
+    
 }
